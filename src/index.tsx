@@ -5,5 +5,5 @@ import App from './containers/App';
 import './scss/app.scss';
 
 ReactDOM.render(
-    <App name="John" />, document.getElementById('root')
+    <App />, document.getElementById('root')
 )
